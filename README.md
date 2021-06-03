@@ -1,1 +1,1 @@
-# COL106
+Course Assignment in Java
